@@ -1,0 +1,11 @@
+-How to start apache2 on ndesign(redhat)->
+ sudo service httpd status
+ sudo service httpd restart
+
+-Red hat linux server relaese 6.8(santiago)
+-How to give the permission->
+  sudo chmod -R 777 /var/www/html/ndesign/cometchat7.0.36
+
+C:\Program Files (x86)\WinMerge
+
+  

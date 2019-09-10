@@ -1,0 +1,81 @@
+
+sudo netstat -tulpn | grep LISTEN
+/etc/init.d/iptables restart
+
+
+https://sagesurfer.atlassian.net/
+pwd:Venkat@123
+
+google:Venkat@123sage
+
+http://192.168.0.173/svn/ndesign/
+devidas=devidas123
+sagar=sagar1234
+sages=Sage##@g!
+laxmik = lax@123
+nilesh = nilesh123
+ankit = ankit123
+venkat = venkat123
+manoj= manoj123
+
+
+svn://192.168.0.10/ndesign/
+
+sagar   sag@@pad
+
+sagar = sag@@sagarp 
+
+
+10 filezilaa:Peer   venkat123
+
+windows servers prpocessor name
+ i need internal 4tb harddisk,
+  external 4tb hard disk.
+
+processor  type windows server.
+processor name.
+
+newuser:username
+Anup##321:pwd
+
+cd /var/opt/svn/
+
+
+is it possible 16gb 1600MHz DDR3
+
+
+4tb windows server 
+
+
+venkatm839@gmail.com Aws account.
+pwd :Venkat123
+
+
+https://tecadmin.net/install-subversion-server-on-ubuntu/
+https://help.ubuntu.com/lts/serverguide/subversion.html.en
+
+Git Credentials.
+username- Monikam
+pwd: Sage@1234
+http://192.168.0.206/user/login?redirect_to=
+
+
+MailId :venkatareddy@sagesurfer.com
+Venkat@123  :pwd
+
+
+mysql_tzinfo_to_sql /usr/share/zoneinfo | mysql -u root -p mysql
+
+
+commmon user and pwd's.
+user:Ajeet
+pwd:anupam1234
+
+CMD-SHELL curl -f http://localhost/||exit 1
+
+N.Virginia
+
+
+http://192.168.0.11/svn/sfdc
+user:manoj
+pwd:manoj123

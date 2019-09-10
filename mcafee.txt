@@ -1,0 +1,43 @@
+<VirtualHost *:443>
+#<VirtualHost *:80>
+ServerName qageneric.sagesurfer.com
+DocumentRoot "/var/www/html/generic/"
+ServerAlias www.qageneric.sagesurfer.com
+#LogFormat "%h %l %u %t \"%r\" %>s %b \"%{Referer}i\" \"%{User-agent}i\""
+#TransferLog logs/access_log
+SSLEngine on
+SSLOptions +FakeBasicAuth +ExportCertData +StrictRequire
+SSLCertificateFile /etc/httpd/ssl/anusage.crt
+SSLCertificateKeyFile /etc/httpd/ssl/anusage.key
+SSLCertificateChainFile /etc/httpd/ssl/gd_bundle-g2-g1.crt
+ErrorLog /var/log/httpd/qageneric-error.log
+CustomLog /var/log/httpd/qageneric-access.log combined
+
+</VirtualHost>
+
+LD24X-39MY7-PS6DQ-3U643-APM4A
+user:venkatareddy@sagesurfer.com
+Venkat123@ Macfee pwd
+
+A88LX89T6KXGEW3;venkat
+C8KAU3H4ARS5XU4:nirmal
+E9QYP4LQANKZE6B:vishal
+F63FLE6J93CWB2N:sagar
+G7JVFA25RAFGH5M:laxmikant
+38C4H2XP9ELAXLQ:sunil
+V8PSHW3S57RPZQ5:sahana
+V7HAWV8JG8GTF6D:sonali
+784Y9TZV8WT37QW:ashish
+469SDR4M4A6WM4R:stephen
+88FVC9LV3M42ZPS:ashish(second time)
+saurabha@sagesurfer.com
+Anup@@8386
+
+https://home.mcafee.com/secure/redeemcard/ecards.aspx?cid=169764&pir=1
+
+RALKZ3CB4PWUNWS
+
+
+JNN64-R57XJ-AKV26-RFSY9-APMHJ
+
+M68A2QMFKA39NY4 ankit.
