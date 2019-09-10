@@ -7,5 +7,3 @@
   sudo chmod -R 777 /var/www/html/ndesign/cometchat7.0.36
 
 C:\Program Files (x86)\WinMerge
-
-  
